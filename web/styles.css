@@ -1,0 +1,28 @@
+html, body {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.field {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* padding: 0 10%; */
+}
+.row {
+    display: flex;
+    position: relative;
+    background: #e7d5c5;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    display: block;
+    position: relative;
+    width: 100%;
+    max-width: 20vw;
+    /* border: 3px solid rgba(50,50,50,0.4); */
+}

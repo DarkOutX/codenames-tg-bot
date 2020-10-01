@@ -1,0 +1,5 @@
+options.js
+games/*
+node_modules/*
+db.json
+web/imgs_clear/

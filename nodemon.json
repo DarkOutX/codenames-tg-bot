@@ -1,0 +1,11 @@
+{
+    "verbose": false,
+    "ignore": [
+        "games/*",
+        "db.json"
+    ],
+    "execMap": {
+        "rb": "ruby",
+        "pde": "processing --sketch={{pwd}} --run"
+    }
+}
